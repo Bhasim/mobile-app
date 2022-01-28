@@ -7,9 +7,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: row;
+    border: 2px rgb(253, 11, 2) dashed;
   }
   .main-container article {
-    height: 75vh;
+    height: 100vh;
     display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 2px rgb(0, 15, 17) dashed;
   }

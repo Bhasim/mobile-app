@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300&family=Luxurious+Roman&family=Roboto:wght@300&display=swap');
-@import url(./var.css);
-@import url(./logo.css);
+@import url(var.css);
+@import url(logo.css);
 @import url(./main/main.css);
 @import url(./menu.css);
 
@@ -10,11 +10,12 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
     transition: 0.5s;
+    /* border: 2px rgb(12, 12, 11) dashed; */
   }
   body {
     width: 100vw;
     height: 100vh;
     font-family: 'Heebo', sans-serif;
     background-image: url(../images/bg_001.jpg);
-    border: 2px red dashed;
+    /* border: 2px red dashed; */
   }
