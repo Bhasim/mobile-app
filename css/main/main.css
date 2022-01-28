@@ -1,0 +1,15 @@
+@import url(./main-intro.css);
+@import url(./overview-app.css);
+@import url(./buttons.css);
+
+.main-container {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .main-container article {
+    height: 75vh;
+    display: flex;
+  }

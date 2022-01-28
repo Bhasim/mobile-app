@@ -1,0 +1,8 @@
+/* logo  */
+.logo {
+    display: flex;
+    flex-grow: 2;
+    height: 70px;
+    justify-content: center;
+    border: 2px rgb(10, 238, 59) dashed;
+}
