@@ -4,24 +4,7 @@ display: flex;
 align-items: center;
 justify-content: start;
 flex-flow: row-reverse;
-/* height: 150vh; */
-
 }
-/* 
-.white-phone {
-    width: 2%;
-    position: relative;
-    top: 0;
-    left: 0;
-}
-
-.black-phone {
-    width: 2%;
-    position: absolute;
-    top: 10px;
-    left: 10px;
-} */
-
 
 .black-phone{
     width: 24%;
@@ -38,6 +21,3 @@ flex-flow: row-reverse;
     left: 0px;
 }
 
-/* .p2 {
-    margin-bottom: 10px;
-} */

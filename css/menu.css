@@ -9,9 +9,7 @@ header {
     
   }
   header nav {
-    flex-grow: 2;
-  
-    
+    flex-grow: 2;  
   }
   header nav ul {
     display: flex;
