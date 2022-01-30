@@ -4,8 +4,8 @@ display: flex;
 align-items: center;
 justify-content: start;
 flex-flow: row-reverse;
-height: 150vh;
-border: 2px rgb(8, 196, 40) dashed;
+/* height: 150vh; */
+
 }
 /* 
 .white-phone {

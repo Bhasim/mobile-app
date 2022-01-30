@@ -1,4 +1,42 @@
 /* buttons  */
 .buttons {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    width: 41%;
+    height: 5%;
     
+   
+}
+
+.learn-more, .get-app{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150%;
+    height: 150%;
+}
+
+input[type=submit] {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    height: 50%;
+    border-radius: 4px;
+    font-weight: bold;
+    color: white;
+    
+    
+  
+}
+
+input[value="Learn More"]{
+    background-color: #02aa3abd;
+    border: 2px solid #02aa3abd
+}
+
+input[value="Get the App"]{
+    background-color: #3786e0e3;
+    border: 2px solid #3786e0e3
 }

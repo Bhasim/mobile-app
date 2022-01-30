@@ -2,18 +2,24 @@
 @import url(./overview-app.css);
 @import url(./buttons.css);
 
+main {
+ 
+  width: 50vw;
+  height: 50vh;
+}
+
 .main-container {
-    width: 100vw;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: row;
-    border: 2px rgb(253, 11, 2) dashed;
-  }
-  .main-container article {
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    border: 2px rgb(0, 15, 17) dashed;
-  }
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+ 
+}
+.main-container article {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+}
