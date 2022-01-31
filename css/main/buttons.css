@@ -36,3 +36,14 @@ input[value="Get the App"]{
     background-color: #3786e0e3;
     border: 2px solid #3786e0e3
 }
+
+/* hover for inputs buttons */
+input:hover {
+    background-color: #ffffff;
+    color: #4c9ed9;
+    border:1px solid #111;
+}
+
+
+
+ 
