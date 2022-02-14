@@ -10,7 +10,7 @@ The CSS Style is flex-box for the main layout and absolute / relative for the in
 
 **[Test this app yourself](https://bhasim.github.io/mobile-app/)**
 
-<img src="./images/task_001_homepage.png"  width="1838" height="600"/>
+<img src="./images/task_001_homepage.png"  width="1838" height="450"/>
 
 
 ##### Developed With
