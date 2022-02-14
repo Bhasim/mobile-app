@@ -3,8 +3,9 @@
     display: flex;
     align-items: center;
     justify-content:center;
-    width: 41%;
-    height: 5%;
+    margin-right: 11%;
+    width: 55%;
+    height: 7%;
 
 }
 
@@ -41,7 +42,6 @@ input[value="Get the App"]{
 input:hover {
     background-color: #ffffff;
     color: #4c9ed9;
-    border:1px solid #111;
 }
 
 

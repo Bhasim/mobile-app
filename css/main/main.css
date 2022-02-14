@@ -3,22 +3,25 @@
 @import url(./buttons.css);
 
 main {
- 
-  width: 50vw;
-  height: 50vh;
+  width: 100vw;
+  height: 100vh;
 }
 
 .main-container {
-  width: 100vw;
+  width: 87vw;
   display: flex;
   align-items: center;
   justify-content: center;
- 
 }
 .main-container article {
   height: 100vh;
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   flex-direction: column;
-
+  width: 100%;
+  padding-right: 2%;
+}
+article{
+  display: flex;
+  align-content: flex-end;
 }

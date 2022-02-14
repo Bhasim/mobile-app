@@ -8,17 +8,20 @@ flex-flow: row-reverse;
 
 .black-phone{
     width: 24%;
+    height: 97vh;
+    position: relative;
+}
+.white-phone{
+    width: 24%;
     height: 100vh;
     position: relative;
-    top: 0;
-    left: 0;
-    
 }
-
 .black-phone .white-phone {
     width: 2%;
     position: absolute;
-    top: 0px;
-    left: 0px;
 }
 
+.p1, .p2 {
+    height: 70vh;
+    margin-top: 30%;
+}
