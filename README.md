@@ -29,7 +29,7 @@ The CSS Style is flex-box for the main layout and absolute / relative for the in
 
 ### Contact
 
-Mail: <Baha.hasim@dci.student><br>
+Mail: <baha.alden.job@gmail.com><br>
 GitHub: [Bhasim](https://github.com/)<br>
 LinkedIn: [Bahaaldean Hashim](https://www.linkedin.com/in/bahaaldean-hashim-598463103)
 
